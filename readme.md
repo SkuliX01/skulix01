@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Go Programming Language<br>🎲 Fun fact: I Use ARCH BTW</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Go Programming Language<br>
 
 ###
 
