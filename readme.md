@@ -10,4 +10,4 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Go Programming Language<br>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust Programming Language<br>
